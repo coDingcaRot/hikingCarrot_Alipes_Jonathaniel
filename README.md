@@ -32,9 +32,9 @@ Here are some known bugs:
 
 ## 6. Features for Future
 What we'd like to build in the future:
-* ...
-* ...
-* ...
+* Review system
+* Profile page
+* 
 	
 ## 7. Contents of Folder
 Content of the project folder:
